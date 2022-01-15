@@ -17,7 +17,7 @@ body {
     display: grid;
     overflow: hidden;
     perspective: 50em;
-    font-family: 'Antonio', sans-serif;
+    font-family: "Antonio", sans-serif;
     text-transform: uppercase;
     background-color: var(--bg);
     transition: background-color var(--dur) var(--ease);
@@ -147,7 +147,7 @@ h1 {
 
 .switch label::before,
 .switch label::after {
-    content: '';
+    content: "";
     display: block;
     width: 100%;
     height: 100%;
